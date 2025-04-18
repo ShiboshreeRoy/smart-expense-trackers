@@ -69,7 +69,7 @@ smart-expense-tracker/
 ---
 ## 📦 Download
 
-👉 [Click here to download the ExpenceTracker for Windows](./dist/ExpenceTracker.exe)
+👉 [Click here to download the ExpenceTracker for Windows](https://www.mediafire.com/file/m426j4lp7t0qj15/ExpenceTracker.exe/file)
 
 ## 🧠 Technologies Used
 
