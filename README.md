@@ -19,7 +19,7 @@
 
 ## 📷 Preview
 
-> ![Smart Expense Tracker](./assest/image.png)
+> ![Smart Expense Tracker](./App/image.png)
 
 ---
 
